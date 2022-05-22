@@ -34,9 +34,7 @@ for correctness checking and for solvability checking contains an almost-complet
 248957136
 763418259
 
-Usage
-$ ./sudoku file2.txt
-solvable
+
 
 
 
