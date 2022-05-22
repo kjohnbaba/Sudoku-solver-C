@@ -4,9 +4,9 @@ Checks whether a proposed Sudoku solution is correct and checks whether a partia
 takes a single argument, which is the path to a file containing a completed or almost-completed
 Sudoku puzzle.
 
-1) sudoku will be given a completed Sudoku puzzle, determine whether the solution is correct,
+1) Sudoku will be given a completed Sudoku puzzle, determine whether the solution is correct,
 and print either correct or incorrect.
-2) sudoku will be given an almost-complete Sudoku puzzle, determine whether the partial
+2) Sudoku will be given an almost-complete Sudoku puzzle, determine whether the partial
 solution can be solved, and print either solvable or unsolvable.
 
 The input file
@@ -33,6 +33,10 @@ for correctness checking and for solvability checking contains an almost-complet
 519 26874
 248957136
 763418259
+
+Usage
+$ ./sudoku file2.txt
+solvable
 
 
 
