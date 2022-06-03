@@ -21,7 +21,7 @@ file1.txt corresponding to the puzzle above would contain something like:
 961537284 
 287419635 
 345286179 
-
+ 
 for correctness checking and for solvability checking contains an almost-completed puzzle with one or two unknown entries like:
 
 435269781 
@@ -33,7 +33,7 @@ for correctness checking and for solvability checking contains an almost-complet
 519 26874 
 248957136 
 763418259 
-
+ 
 
 
 
