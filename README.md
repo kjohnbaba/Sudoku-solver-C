@@ -12,11 +12,11 @@ solution can be solved, and print either solvable or unsolvable.
 The input file
 file1.txt corresponding to the puzzle above would contain something like:
 
-534678912                                                         
-672195348 	                                            
-198342567 	
-859761423                                      
-426853791                                          
+534678912                                                          
+672195348 	                                               
+198342567 	                           
+859761423                                                           
+426853791                                           
 713924856                                      
 961537284                                 
 287419635                               
