@@ -12,7 +12,7 @@ solution can be solved, and print either solvable or unsolvable.
 The input file
 file1.txt corresponding to the puzzle above would contain something like:
 
-534678912 	
+534678912                                                         
 672195348 	
 198342567 	
 859761423 
@@ -22,7 +22,7 @@ file1.txt corresponding to the puzzle above would contain something like:
 287419635 
 345286179 
   
-for correctness checking and for solvability checking contains an almost-completed puzzle with one or two unknown entries like:
+For correctness checking and for solvability checking contains an almost-completed puzzle with one or two unknown entries like:
 
 435269781 
 682571493 
