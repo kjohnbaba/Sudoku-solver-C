@@ -13,14 +13,14 @@ The input file
 file1.txt corresponding to the puzzle above would contain something like:
 
 534678912                                                         
-672195348 	
+672195348 	                                            
 198342567 	
-859761423 
-426853791 
-713924856 
-961537284 
-287419635 
-345286179 
+859761423                                      
+426853791                                          
+713924856                                      
+961537284                                 
+287419635                               
+345286179                                  
   
 For correctness checking and for solvability checking contains an almost-completed puzzle with one or two unknown entries like:
 
