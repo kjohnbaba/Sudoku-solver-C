@@ -16,7 +16,6 @@ int CheckRow(int row) {
 		}
 	}
 	return 1;
-
 }
 
 int CheckColumn(int column) {
@@ -28,7 +27,6 @@ int CheckColumn(int column) {
 			return 0;
 		}
 	}
-
 	return 1;
 }
 
@@ -73,7 +71,6 @@ int CheckSudoku() {
 		}
 		total = 0;
 	}
-
 	return 1;
 }
 
@@ -148,7 +145,6 @@ FILE* ReadFile(char** argv, int argc)
 if(argc == 2){
 	fp = fopen(argv[1], "r");}
 	
-	
 	return fp;
 }
 int main(int argc, char** argv) {
@@ -165,8 +161,6 @@ int main(int argc, char** argv) {
 	}
 
 //	fp = fopen(filename, "r");
-
-	
 
 	char input = 0;
 	int row = 0, column = 0, mode = 0, isFirstSpace = 1; // mode=0 -> Check, mode=1 -> solve
@@ -233,4 +227,4 @@ free(matrix);
 	
 	return 0;}
 
-// BURAYA FREEEE KOY 
+
