@@ -24,15 +24,15 @@ file1.txt corresponding to the puzzle above would contain something like:
   
 For correctness checking and for solvability checking contains an almost-completed puzzle with one or two unknown entries like:
 
-435269781 
-682571493 
-1978345 2 
-826195347 
-374682915 
-951743628 
-519 26874 
-248957136 
-763418259 
+435269781             
+682571493             
+1978345 2             
+826195347             
+374682915            
+951743628            
+519 26874          
+248957136             
+763418259           
  
 
 
